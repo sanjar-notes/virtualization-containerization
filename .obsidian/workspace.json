@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "86b36098c87d9192",
+    "type": "split",
+    "children": [
+      {
+        "id": "b27aaa5865e1fe39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "363db1e1e4b1db33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26a25b0e46d3eb35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Voice notes test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4433febe3a3d518",
+    "type": "split",
+    "children": [
+      {
+        "id": "422ecfe2ee88446e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4d522289c807a40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8f80a65b4d8acdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40dd3c0805fff684",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "1bf6ef437ecf51ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d81dfc23f23fdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a04c93cb951ba656",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08894c85cd292333",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "9b123d141bee6ffc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "2a4faffe0316b062",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "363db1e1e4b1db33",
+  "lastOpenFiles": [
+    "Voice notes test.md",
+    "README.md",
+    "vault/1_Environment_variables.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/5_Express_js/58_What_is_Express_js.md",
+    "vault",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/5_Express_js/5_Express_js.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/5_Express_js/testf.md",
+    "home/4_resource_itineraries/1_codevolution_nodejs_beginners/9_Miscellaneous/63_Deploying_Node_js_apps.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/14_Sessions_and_Cookies/235_Cookie_experiments.md",
+    "assets/235_Cookie_experiments-image-1.png",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/14_Sessions_and_Cookies/234_Sessions_code.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/13_Working_with_Mongoose/222_1_Add_custom_model_methods.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/13_Working_with_Mongoose/221_select_and_populate.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/13_Working_with_Mongoose/219_Using_relations_ref_in_Mongoose.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/13_Working_with_Mongoose/218_Adding_the_Cart_model.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/13_Working_with_Mongoose/217_Updating_attributes_nested_paths_remotely_in_Mongoose.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/13_Working_with_Mongoose/216_Editing_and_deleting_Products.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/13_Working_with_Mongoose/215_lean_and__doc_in_Mongoose.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/13_Working_with_Mongoose/214_Fetching_products.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/12_Working_with_NoSQL_and_MongoDB/188_Edit_and_delete_product.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/12_Working_with_NoSQL_and_MongoDB/187_Fetching_product_single.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/12_Working_with_NoSQL_and_MongoDB/186_Fetching_products_multiple.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/13_Working_with_Mongoose/213_Saving_data_through_Mongoose.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/11_Understanding_Sequelize/152_Defining_a_Model.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/11_Understanding_Sequelize/151_Connecting_to_the_Database.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/11_Understanding_Sequelize/150_Sequelize_concepts.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/11_Understanding_Sequelize/149_What_is_an_ORM.md",
+    "home/4_resource_itineraries/2_Node_js_complete_guide_academind/6_2_Templating_Engines_and_Dynamic_content/81_Installing_Pug_and_using_it.md",
+    "assets/231_Cookies_and_Session_Fundamentals-image-1-510c7988.svg",
+    "assets/231_Cookies_and_Session_Fundamentals-image-2-510c7988.svg",
+    "assets/231_Cookies_and_Session_Fundamentals-image-3-510c7988.svg",
+    "assets/290_3_layers_of_validation-image-1-0473ea29.png",
+    "assets/362_Routing_and_HTTP_methods-image-2-1d84a321.png",
+    "assets/230_Module_intro-image-2.svg",
+    "assets/363_REST_and_core_principles-image-1-1d84a321.png",
+    "assets/ChatGPT-interrupts-vs-polling.pdf",
+    "assets/gpt3-headers-first-even-if-chunked.pdf",
+    "assets/gpt3-res-flush-tcp-node.pdf",
+    "assets/291_Validation_as_middlewares-image-2-0473ea29.png",
+    "assets/291_Validation_as_middlewares-image-1-0473ea29.png",
+    "assets/vtt/20345189.vtt",
+    "assets/vtt/20345187.vtt",
+    "assets/vtt/20345177.vtt",
+    "assets/vtt/20345175.vtt",
+    "assets/vtt/20345171.vtt",
+    "assets/vtt/20345167.vtt",
+    "tasks canvas.canvas"
+  ]
+}
