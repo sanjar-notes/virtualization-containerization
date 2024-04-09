@@ -13,6 +13,7 @@ Links
 - [Docker on Termux](https://gist.github.com/oofnikj/e79aef095cd08756f7f26ed244355d62)
 - https://github.com/jackyzha0/docker-explained
 - [Link to same Notion note](https://www.notion.so/sanjarcode/Docker-3-hours-course-7134fece893f4211a47f14fdc3081544)
+- Good read: 
 
 ## [01:58](https://www.youtube.com/watch?v=3c-iBn73dDE&t=118s) - What is Docker? (TBC)
 
