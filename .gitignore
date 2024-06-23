@@ -1,2 +1,7 @@
 .DS_Store
-.obsidian/workspace
+.vscode
+.obsidian/workspace.json
+.obsidian/plugins/obsidian-review-notes-plugin/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/various-complements/histories.json
+zignore/
